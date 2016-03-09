@@ -52,7 +52,7 @@
 
 At this point, I stopped listening. Git is super useful, Travis knows A LOT about it.
 
-I just don't really care that much today.
+I just don't have this much headspace today, and I can find tons of these commands with git help (although his talk is more complete -- good on you, Travis).
 
 ##Notes from Today
 - Helpful link for grid layouts: [SitePoint Article](http://www.sitepoint.com/understanding-css-grid-systems/)
