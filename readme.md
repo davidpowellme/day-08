@@ -35,8 +35,24 @@
 - git rm for remove
 - send changes
     + use the github instructions
-    + git push <code><remote> [<branch>]</code>
+    + git push remote branch
 
+###What is a branch?
+- a branch just points to a git location
+- branches give you the ability to do many things at once
+    + one experiment while working on another
+    + a/b testing while in iteration
+- git branch
+    + shows the current branch with "*"
+    + shows all "ls" style
+- **creating branches**: git branch new branch (name can be changed, not a command)
+- **switching branches**: git checkout
+- **merge branches**: checkout branch you want to merge into
+    + git merge branchname
+
+At this point, I stopped listening. Git is super useful, Travis knows A LOT about it.
+
+I just don't really care that much today.
 
 ##Notes from Today
 - Helpful link for grid layouts: [SitePoint Article](http://www.sitepoint.com/understanding-css-grid-systems/)
